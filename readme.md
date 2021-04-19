@@ -13,9 +13,9 @@ Dongqi Wu, Xiangtian Zheng, Yixing Xu et al. An Open-source Model for Simulation
 This paper documents the creation and improvent of this model as well as provides analyses about the reproduction and corrective measure studies of the 2021 Texas Power Outage event. The article is also available on [arXiv](https://arxiv.org/abs/2104.04146).
 
 ## Features
-- Overall, this repository contains three parts: \
-	1) Processed public data during the 2021 Texas Power Outage \
-	2) Synethetic network that resembles the ERCOT grid\
+- Overall, this repository contains three parts: 
+	1) Processed public data during the 2021 Texas Power Outage 
+	2) Synethetic network that resembles the ERCOT grid
 	3) Source code used to run simulated event reproduction and counterfactual analysis.
 
 
