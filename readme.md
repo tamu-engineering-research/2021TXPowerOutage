@@ -14,9 +14,9 @@ This paper documents the creation and improvent of this model as well as provide
 
 ## Features
 - Overall, this repository contains three parts: \
-1)Processed public data during the 2021 Texas Power Outage \
-2)Synethetic network that resembles the ERCOT grid\
-3)Source code used to run simulated event reproduction and counterfactual analysis.
+	1) Processed public data during the 2021 Texas Power Outage \
+	2) Synethetic network that resembles the ERCOT grid\
+	3) Source code used to run simulated event reproduction and counterfactual analysis.
 
 
 ## Navigation
