@@ -7,7 +7,7 @@
 ## Suggested Citation 
 - Please cite the following paper when you use this data hub:  
 `
-Dongqi Wu, Xiangtian Zheng, Yixing Xu et al. An Open-source Model for Simulation and Corrective Measure Assessment of the 2021 Texas Power Outage, 05 April 2021, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-384535/v1]
+Wu, Dongqi, Xiangtian Zheng, Yixing Xu, Daniel Olsen, Bainan Xia, Chanan Singh, and Le Xie. "An open-source extendable model and corrective measure assessment of the 2021 texas power outage." Advances in Applied Energy 4 (2021): 100056.
 `
 
 This paper documents the creation and improvent of this model as well as provides analyses about the reproduction and corrective measure studies of the 2021 Texas Power Outage event. The article is also available on [arXiv](https://arxiv.org/abs/2104.04146).
